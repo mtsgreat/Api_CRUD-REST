@@ -18,9 +18,7 @@ Na aba de URL colocar o endereço: http://localhost:3003/produtos.
 <br >
 <br >
 <br >
-<br >
-<br >
-<br >
+
 
 
 
@@ -39,7 +37,9 @@ Testando o CRUD:
 
 5 - depois Send (enviar)
 
-
+<br >
+<br >
+<br >
 
 
 
@@ -47,7 +47,9 @@ Testando o CRUD:
 
 Basta apenas mudar o tipo de requisição para GET, e depois enviar o Send
 
-
+<br >
+<br >
+<br >
 
 
 
@@ -57,7 +59,9 @@ Basta apenas mudar o tipo de requisição para GET, e depois enviar o Send
 Tipo da requisição GET, exemplo: http://localhost:3003/produtos/1
 
 
-
+<br >
+<br >
+<br >
 
 
 
@@ -69,7 +73,9 @@ Especificar o id do produto que quer alterar, exemplo: http://localhost:3003/pro
 e preencher os novos valores, sendo o mesmo passo do incluir produto.
 
 
-
+<br >
+<br >
+<br >
 
 
 
