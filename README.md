@@ -11,7 +11,10 @@
 Utilização, baixar e instalar a ferramenta Postman.
 
 
-Na aba de URL colocar o endereço: http://localhost:3003/produtos
+Na aba de URL colocar o endereço: http://localhost:3003/produtos   
+
+
+
 
 
 Testando o CRUD:
@@ -30,9 +33,14 @@ Testando o CRUD:
 
 
 
+
+
 **Listando todos os produtos** 
 
 Basta apenas mudar o tipo de requisição para GET, e depois enviar o Send
+
+
+
 
 
 
@@ -42,12 +50,18 @@ Tipo da requisição GET, exemplo: http://localhost:3003/produtos/1
 
 
 
+
+
+
 **Alterando valor de um Id específico**
 
 Mudar o tipo de requisição para PUT
 
 Especificar o id do produto que quer alterar, exemplo: http://localhost:3003/produtos/1
 e preencher os novos valores, sendo o mesmo passo do incluir produto.
+
+
+
 
 
 
