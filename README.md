@@ -5,6 +5,10 @@
  Dependências usadas: Nodemon, Express e Border-parser
 
  Foi utilizada a ferramenta Postman para testar os serviços e manipular as requisições pelas rotas.
+ 
+ 
+ 
+ ![Postman-print](https://github.com/mtsgreat/Api_CRUD-REST/blob/master/postan-img.png)
 
 
 
