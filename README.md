@@ -11,8 +11,16 @@
 Utilização, baixar e instalar a ferramenta Postman.
 
 
----Na aba de URL colocar o endereço: http://localhost:3003/produtos.---
+Na aba de URL colocar o endereço: http://localhost:3003/produtos.
 
+
+<br >
+<br >
+<br >
+<br >
+<br >
+<br >
+<br >
 
 
 
